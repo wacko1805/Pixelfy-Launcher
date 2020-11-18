@@ -1,6 +1,6 @@
-id=cPixel_Launcher
-name=Pixel-fy launcher
-version=v1.1
-versionCode=050820
-author=Wacko1805
-description=Android 11 Launcher
+id=android11-launcher
+name=Android 11 Launcher
+version=v1.2
+versionCode=1.2
+author=wacko
+description=Andoird 11 launcher with live wallpapers, smart select, app suggestions and more

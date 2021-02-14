@@ -1,0 +1,5 @@
+<permissions>
+  <privapp-permissions package="com.android.systemui.plugin.globalactions.wallet">
+    <permission name="com.android.systemui.permission.PLUGIN" />
+  </privapp-permissions>
+</permissions>

@@ -1,5 +1,5 @@
 # Pixelfy Launcher
- 
+# Downloads have moved to SourceForge! [Download here](https://sourceforge.net/projects/pixel-spoof/files/Pixel%20Launcher/)
 
 Magisk Module to get the Android 11 Launcher on unnsupported devices/roms. 
 
